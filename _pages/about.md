@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
@@ -22,4 +22,4 @@ Hi! I’m Rajesh, a Computer Systems Architect at ARM. I am particularly passion
 
 I earned my graduate degree from [University of Wisconsin-Madison](https://www.wisc.edu/), where I worked with Prof. Matthew Sinclair at the [Heterogeneous Architectures Lab](https://research.cs.wisc.edu/hal/people.html), on mechanisms to promote data reuse in HPC & ML workloads on chiplet-based GPU architectures.
 
-I've previously worked at [AMD Research](https://www.amd.com/en/corporate/research-areas#High-Performance-Computing), [Qualcomm](https://www.qualcomm.com) and [Analog Devices, Inc.](https://www.analog.com) on various facets of Computer Architecture.
+I've previously worked at [AMD Research](https://www.amd.com/en/corporate/research.html), [Qualcomm](https://www.qualcomm.com) and [Analog Devices, Inc.](https://www.analog.com/en/product-category/sharc-audio-processors-socs.html) across various layers of abstraction in Computer Architecture.
