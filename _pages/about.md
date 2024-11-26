@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer System Architect at <a href="https://www.arm.com">ARM</a>
+subtitle: Computer Architect at <a href="https://www.arm.com">ARM</a>
 
 profile:
   align: right
