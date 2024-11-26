@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Attended MICRO 2024 in Austin, TX, where our publication was presented.
+Attended MICRO '24 in Austin, TX, where our publication "CPElide" was presented.
