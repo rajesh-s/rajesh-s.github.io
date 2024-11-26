@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Joined ARM in Austin as a Computer Systems Architect!
+Joined ARM in Austin, TX as a Computer Architect!
