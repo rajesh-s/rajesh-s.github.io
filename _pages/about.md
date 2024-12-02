@@ -20,8 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 Hello there! I focus on research in Computer Architecture and Systems, especially in the context of Machine Learning. At ARM, I work on improving the scalability and efficiency of Computer Systems, with an emphasis on optimizing datacenter infrastructure for emerging workloads.
 
-My prior experience has focused on addressing challenges in memory systems, including improving memory coherency and optimizing concurrency for multithreaded and parallel computing environments. Additionally, I have worked on making heterogeneous systems more performant.
-
 I earned my graduate degree from [University of Wisconsin-Madison](https://www.wisc.edu/), where I worked with [Prof. Matt Sinclair](https://pages.cs.wisc.edu/~sinclair/) at the [Heterogeneous Architectures Lab](https://research.cs.wisc.edu/hal/people.html), on mechanisms to promote data reuse in HPC & ML workloads on chiplet-based GPU architectures.
 
-I've previously worked at [AMD Research](https://www.amd.com/en/corporate/research.html), [Qualcomm](https://www.qualcomm.com) and [Analog Devices, Inc.](https://www.analog.com/en/product-category/sharc-audio-processors-socs.html) across various layers of abstraction in Computer Architecture.
+I have a strong background in addressing challenges in parallel computer architecture and optimizing the performance of heterogeneous systems. Some of my prior work includes improving memory coherence, hardware acceleration, and optimizing concurrency in multithreaded and parallel computing environments. I've previously worked at [AMD Research](https://www.amd.com/en/corporate/research.html), [Qualcomm](https://www.qualcomm.com) and [Analog Devices, Inc.](https://www.analog.com/en/product-category/sharc-audio-processors-socs.html) across various layers of abstraction in Computer Architecture.
