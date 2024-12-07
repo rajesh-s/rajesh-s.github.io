@@ -1,13 +1,20 @@
-@inproceedings{rajeshcpelide,
-   title={CPElide: Efficient Multi-Chiplet GPU Implicit
-Synchronization},
-   author={Dalmia, Preyesh and Shashi Kumar, Rajesh and Sinclair, Matthew D.},
-   booktitle={Proceedings of the 57th Annual International Symposium on Microarchitecture},
-   year={2024},
-   abbr={MICRO},
-   pdf={cpelide_micro24.pdf},
-   selected={true}
-}
+@INPROCEEDINGS {10764634,
+author = { Dalmia, Preyesh and Shashi Kumar, Rajesh and Sinclair, Matthew D. },
+booktitle = { 2024 57th IEEE/ACM International Symposium on Microarchitecture (MICRO) },
+title = {{ CPElide: Efficient Multi-Chiplet GPU Implicit Synchronization }},
+year = {2024},
+volume = {},
+ISSN = {},
+pages = {700-717},
+abstract = { Chiplets are transforming computer system designs, allowing system designers to combine heterogeneous computing resources at unprecedented scales. Breaking larger, mono-lithic chips into smaller, connected chip lets helps performance continue scaling, avoids die size limitations, improves yield, and reduces design and integration costs. However, chip let-based designs introduce an additional level of hierarchy, which causes indirection and non-uniformity. This clashes with typ-ical heterogeneous systems: unlike CPU-based multi-chiplet systems, heterogeneous systems do not have significant OS support or complex coherence protocols to mitigate the impact of this indirection. Thus, exploiting locality across application phases is harder in multi-chiplet heterogeneous systems. We propose CPElide, which utilizes information already avail-able in heterogeneous systems' embedded microprocessor (the command processor) to track inter-chiplet data dependencies and aggressively perform implicit synchronization only when necessary, instead of conservatively like the state-of-the-art HMG. Across 24 workloads CPElide improves average performance (13%, 19%), energy (14%, 11 %), and network traffic (14%,17%), respectively, over current approaches and HMG. },
+keywords = {Protocols;Microarchitecture;Chiplets;Microprocessors;Graphics processing units;Telecommunication traffic;Heterogeneous networks;Hardware;Synchronization;System analysis and design},
+doi = {10.1109/MICRO61859.2024.00058},
+url = {https://doi.ieeecomputersociety.org/10.1109/MICRO61859.2024.00058},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month =Nov,
+pdf={cpelide_micro24.pdf},
+selected={true}}
 
 @misc{rajesh2024cache,
   title={Cache Synchronization for Chiplet Accelerators},
