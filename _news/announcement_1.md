@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Attended [MICRO '24](https://x.com/rajesh_s_/status/1853491991327527395) in Austin, TX, where our publication "CPElide" was presented.
+Attended MICRO '24 in Austin, TX, where our publication "CPElide" was presented.
