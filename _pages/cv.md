@@ -1,12 +1,8 @@
 ---
-layout: cv
-permalink: /cv/
+# layout: cv
+layout: page
 title: cv
-nav: false
-nav_order: 3
-cv_pdf: cv.pdf
+permalink: /assets/pdf/cv.pdf
 nav: true
-description: 
-toc:
-  sidebar: left
+nav_order: 3
 ---
