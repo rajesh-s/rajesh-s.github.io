@@ -7,3 +7,8 @@ related_posts: false
 ---
 
 Attended MICRO '24 in Austin, TX, where our publication "CPElide" was presented.
+
+
+![MICRO](assets/img/micro1.jpg)
+
+![MICRO](assets/img/micro2.jpg)
