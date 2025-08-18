@@ -6,6 +6,6 @@ inline: false
 related_posts: false
 ---
 
-Invited lightning talk at the Arm Global Engineering conference in Birmingham, UK.
+Invited lightning talk on energy efficient LLM inference at the Arm Global Engineering Conference in Birmingham, UK.
 
 ![GEC](assets/img/gec1.jpg)
