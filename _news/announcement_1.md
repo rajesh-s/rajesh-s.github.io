@@ -2,7 +2,7 @@
 layout: post
 date: 2024-11-05 15:59:00-0400
 title: Attended MICRO '24 in Austin, TX, where our publication "CPElide" was presented.
-inline: true
+inline: false
 related_posts: false
 ---
 
