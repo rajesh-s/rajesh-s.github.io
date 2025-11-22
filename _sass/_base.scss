@@ -1305,3 +1305,88 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+// Community forum tiles
+
+.community {
+  .community-link {
+    text-decoration: none;
+    color: inherit;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
+  .community-card {
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    border: 1px solid var(--global-divider-color);
+    
+    &:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    }
+
+    .card-body {
+      padding: 1.5rem 1rem;
+      min-height: 160px;
+    }
+  }
+
+  .community-icon {
+    transition: transform 0.2s ease-in-out;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    
+    .community-card:hover & {
+      transform: scale(1.1);
+    }
+  }
+
+  .community-favicon {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    display: block;
+  }
+
+  .community-title {
+    font-weight: 400;
+    font-size: 1rem;
+    color: var(--global-text-color);
+    margin-bottom: 0.5rem;
+  }
+
+  .community-description {
+    font-size: 0.875rem;
+    line-height: 1.4;
+  }
+
+  .row {
+    margin-top: 1.5rem;
+  }
+
+  .col {
+    margin-bottom: 1.5rem;
+  }
+}
+
+// Responsive adjustments for community cards
+@media (max-width: 576px) {
+  .community {
+    .community-card {
+      .card-body {
+        padding: 1.5rem 1rem;
+        min-height: 180px;
+      }
+    }
+
+    .community-icon {
+      i {
+        font-size: 3rem !important;
+      }
+    }
+  }
+}

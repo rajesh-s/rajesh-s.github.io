@@ -94,7 +94,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-instructable_profile: rajesh109876
+instructable_profile: # rajesh109876
 scholar_userid: X6LLVPgAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
@@ -111,8 +111,8 @@ work_url: # work page URL
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
-contact_note: >
-  Please use these links if you would like to learn more about my work!
+contact_note: #>
+  #Please use these links if you would like to learn more about my work!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

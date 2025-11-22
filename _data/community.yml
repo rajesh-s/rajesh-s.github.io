@@ -1,0 +1,30 @@
+# Community forums where you participate
+# Add your forum profiles here
+
+forums: 
+  - name: Stack Exchange
+    url: https://stackexchange.com/users/15538535/rajesh-shashi-kumar?tab=accounts
+    icon: fa-brands fa-stack-exchange
+    color: "#1E5397"
+
+  - name: Developer Forums
+    url: https://forums.developer.nvidia.com/u/rajeshshashikumar/summary
+    image: https://upload.wikimedia.org/wikipedia/sco/thumb/2/21/Nvidia_logo.svg/1200px-Nvidia_logo.svg.png
+
+  - name: Instructables
+    url: https://www.instructables.com/member/rajesh109876/
+    icon: fa-solid fa-robot
+
+  - name: vLLM
+    url: https://discuss.vllm.ai/u/rajesh-s/summary
+    image: https://raw.githubusercontent.com/vllm-project/media-kit/main/vLLM-Logo.png
+
+  - name: Docker Hub
+    url: https://hub.docker.com/u/rajesh550
+    icon: fa-brands fa-docker
+    color: "#2496ED"
+
+  - name: LMCache
+    url: https://github.com/LMCache/LMCache/issues?q=rajesh-s
+    icon: fa-brands fa-github
+    color: "#181717"
