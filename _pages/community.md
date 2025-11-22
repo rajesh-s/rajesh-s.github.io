@@ -11,7 +11,7 @@ nav_order: 4
     font-size: 0;
   }
   .post .post-title::after {
-    content: "communities and projects I've participated in";
+    content: "communities I've participated in";
     font-size: 2.25rem;
   }
 </style>
