@@ -4,5 +4,5 @@ layout: page
 title: cv
 permalink: /assets/pdf/cv.pdf
 nav: true
-nav_order: 3
+nav_order: 5
 ---
