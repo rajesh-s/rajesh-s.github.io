@@ -33,7 +33,7 @@ As a Computer Architect, a personal highlight was meeting two people whose work 
 
 <div class="row mt-3">
   {% for i in (1..3) %}
-    {% assign img_path = "assets/img/ieee" | append: i | append: ".jpg" %}
+    {% assign img_path = "assets/img/ieee" | append: i | append: ".JPG" %}
 
     <div class="col-sm-4 mt-3 mt-md-0">
       <div class="square">
