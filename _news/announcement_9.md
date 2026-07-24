@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I’m serving on the Artifact Evaluation Committee for [MICRO '26](https://www.microarch.org/micro59/).
+I’m serving on the Artifact Evaluation Committee for [MICRO '26](https://www.microarch.org/micro59/) and [IISWC '26](https://iiswc.org/iiswc2026/)
