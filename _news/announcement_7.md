@@ -1,14 +1,44 @@
 ---
 layout: post
 date: 2026-06-27 15:59:00-0400
-title:  isca26
+title:  Attended ISCA '26 in Raleigh, NC, my first ISCA!
 inline: false
 related_posts: false
 ---
 
-Attended [ISCA '26](https://iscaconf.org/isca2026/) in Raleigh, NC, my first ISCA!
+Grateful to have met three generations of advisors today at the International Symposium on Computer Architecture (ISCA) in Raleigh, NC : Prof. Matt Sinclair, Prof. Sarita Adve, and Prof. Mark Hill.
 
-Takeaways:
+It was a surreal moment to meet people whose decades of papers, books, and ideas have shaped how I think about parallel computer architecture and cache coherence. Their collective contributions, along with the mentorship of Prof. Sinclair, have set a remarkable example for me and continue to inspire my research in heterogeneous systems. 
+
+Moments like this make me especially proud to be a Badger and to have been a part of the HAL research group. It was also a meaningful opportunity to connect with my broader academic family, including members of Prof. Adve’s group from UIUC and Prof. Sinclair’s group from Wisconsin.
+
+<style>
+.square {
+  aspect-ratio: 1 / 1;     /* keep square automatically */
+  width: 100%;             /* responsive */
+  overflow: hidden;        /* hide cropped overflow */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.square img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;       /* crop to square */
+}
+</style>
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <div class="square">
+      {% include figure.liquid loading="eager" path="assets/img/isca.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+  </div>
+</div>
+
+
+Takeaways from the confernece:
 
 - **Computer architecture is becoming system architecture.** The important design unit is no longer an isolated CPU, GPU, accelerator, memory, or network. The talks repeatedly optimized interactions across all of them, often extending down into packaging and cooling and up into compilers, runtimes, and application behavior.
 - **Peak compute is no longer the most useful headline metric.** Capacity, data-movement efficiency, synchronization, tail latency, energy, reliability, and the ability to sustain utilization increasingly determine useful performance.
