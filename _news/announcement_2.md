@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-06-20 15:59:00-0400
-title: Joined ARM in Austin, TX as a Computer Architect!
+title: Joined Arm as a Computer Architect in Austin, TX.
 inline: false
 related_posts: false
 ---

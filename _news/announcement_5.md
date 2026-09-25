@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I’m serving as a reviewer for [ISPASS '26](https://ispass.org/ispass2026/).
+Serving as a reviewer for [ISPASS ’26](https://ispass.org/ispass2026/).

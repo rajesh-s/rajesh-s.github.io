@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I am serving as a reviewer for [CAL '26](https://www.computer.org/csdl/journal/ca).
+Serving as a reviewer for [CAL ’26](https://www.computer.org/csdl/journal/ca).

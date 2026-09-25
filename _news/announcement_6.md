@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2026-04-22 15:59:00-0400
-title:   I was nominated to attend the 2026 IEEE Laureate Forum and Honors Ceremony in NYC.
+title: Nominated to attend the 2026 IEEE Laureate Forum and Honors Ceremony in New York City.
 inline: false
 related_posts: false
 ---

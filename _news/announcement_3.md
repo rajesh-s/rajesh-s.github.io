@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-07-10 15:59:00-0400
-title: Invited lightning talk at the Arm Global Engineering Conference, Birmingham, UK.
+title: Delivered an invited lightning talk at the Arm Global Engineering Conference in Birmingham, UK.
 inline: false
 related_posts: false
 ---

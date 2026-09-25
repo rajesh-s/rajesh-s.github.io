@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2026-06-27 15:59:00-0400
-title:  Attended ISCA '26 in Raleigh, NC, my first ISCA!
+title: Attended ISCA ’26 in Raleigh, NC.
 inline: false
 related_posts: false
 ---

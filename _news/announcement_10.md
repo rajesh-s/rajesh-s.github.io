@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I am serving as a reviewer for [TACO '26](https://dl.acm.org/journal/taco).
+Serving as a reviewer for [TACO ’26](https://dl.acm.org/journal/taco).

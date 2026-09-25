@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I’m reading The Art of Multiprocessor Programming this fall as part of the [Software Internals Book Club](https://eatonphil.com/2025-art-of-multiprocessor-programming.html). Come join us!
+Reading The Art of Multiprocessor Programming this fall as part of the [Software Internals Book Club](https://eatonphil.com/2025-art-of-multiprocessor-programming.html). Come join us!
